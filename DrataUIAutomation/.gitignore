@@ -1,0 +1,12 @@
+app.log
+geckodriver.log
+.idea
+reports/*
+report/*
+re_run.txt
+*/__pycache__/*
+screenshots/*
+*.env
+*.pyc
+*.json
+venv
